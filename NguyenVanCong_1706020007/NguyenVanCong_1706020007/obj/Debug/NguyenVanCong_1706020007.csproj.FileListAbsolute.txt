@@ -1,0 +1,8 @@
+E:\HDT\NguyenVanCong_1706020007\NguyenVanCong_1706020007\obj\Debug\NguyenVanCong_1706020007.csprojResolveAssemblyReference.cache
+E:\HDT\NguyenVanCong_1706020007\NguyenVanCong_1706020007\obj\Debug\NguyenVanCong_1706020007.MainForm.resources
+E:\HDT\NguyenVanCong_1706020007\NguyenVanCong_1706020007\obj\Debug\NguyenVanCong_1706020007.csproj.GenerateResource.Cache
+E:\HDT\NguyenVanCong_1706020007\NguyenVanCong_1706020007\bin\Debug\NguyenVanCong_1706020007.exe
+E:\HDT\NguyenVanCong_1706020007\NguyenVanCong_1706020007\bin\Debug\NguyenVanCong_1706020007.pdb
+E:\HDT\NguyenVanCong_1706020007\NguyenVanCong_1706020007\obj\Debug\NguyenVanCong_1706020007.exe
+E:\HDT\NguyenVanCong_1706020007\NguyenVanCong_1706020007\obj\Debug\NguyenVanCong_1706020007.pdb
+E:\HDT\NguyenVanCong_1706020007\NguyenVanCong_1706020007\bin\Debug\NguyenVanCong_1706020007.exe.config
